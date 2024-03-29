@@ -1,0 +1,38 @@
+# Python 编译文件
+__pycache__/
+
+# Jupyter Notebook 生成的文件
+.ipynb_checkpoints/
+
+# env 目录，用于存放虚拟环境
+env/
+
+# Python 包安装的依赖文件
+*.egg-info/
+*.egg
+*.pyc
+
+# 已经编译的 Python 文件
+*.pyo
+*.pyd
+
+# pipenv 生成的虚拟环境
+Pipfile.lock
+
+# vscode 配置文件
+.vscode/
+
+# IDEA 配置文件
+.idea/
+
+# 数据库
+db.sqlite3
+
+# 日志和临时文件
+*.log
+*.pot
+*.swp
+*~
+*.bak
+*.sql
+
